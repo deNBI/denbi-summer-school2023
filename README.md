@@ -2,6 +2,8 @@
 
 This is the course material for the de.NBI Cloud introduction session at the de.NBI Summer School 2023 in Bielefeld.
 
+[Slides](https://docs.google.com/presentation/d/1VD34TE6RciFmJz5aWvlJYPXAJk4LpSZXO4fn50t9v_4/edit?usp=sharing)
+
 ## Part 1: Linux/Unix Command Line Introduction
 
 [Linux/Unix Workshop Material](https://github.com/deNBI/unix-course/tree/denbi-summerschool-2023)
