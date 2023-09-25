@@ -17,3 +17,5 @@ This is the course material for the de.NBI Cloud introduction session at the de.
 * [Part 2](https://github.com/deNBI/simpleVMWorkshop/blob/denbi-summerschool-2023/part2.md)
 * [Part 3](https://github.com/deNBI/simpleVMWorkshop/blob/denbi-summerschool-2023/part3.md)
 * [Part 4](https://github.com/deNBI/simpleVMWorkshop/blob/denbi-summerschool-2023/part4.md)
+* [Part 5.1](https://github.com/deNBI/simpleVMWorkshop/blob/denbi-summerschool-2023/part51.md)
+* [Part 5.2](https://github.com/deNBI/simpleVMWorkshop/blob/denbi-summerschool-2023/part52.md)
